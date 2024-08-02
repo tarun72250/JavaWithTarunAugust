@@ -1,0 +1,120 @@
+1. Write a program that declares a variable of each primitive type in Java, assigns them values, and prints them.
+2. Modify a given integer variable and demonstrate the difference between prefix and postfix increment operators.
+3. Declare variables of the following types with appropriate values: byte, short, int, long, float, double, boolean, String, and char. Print the values of these variables.
+4. Change the value of the int variable you declared and print its new value.
+5. Demonstrate the use of the final keyword by declaring a final variable and attempting to change its value. Explain what happens and why.
+6. Create two string variables, firstName and lastName. Concatenate them to form a full name and print the result.
+Given a string variable, print its length without using the length() method.
+7. Declare two int variables and perform addition, subtraction, multiplication, and division. Print the results of each operation.
+Given a float and a double variable, perform an arithmetic operation and store the result in a double variable. Print the result.
+8. Declare a boolean variable and assign it a value based on a comparison between two integers. Print the value of the boolean variable.
+Write a program that uses boolean variables to determine if a number is positive, negative, or zero.
+9. Declare a double variable and cast it to an int. Print both the original and the casted values.
+Demonstrate implicit and explicit type casting with appropriate examples.
+10. Declare a char variable and print its ASCII value.
+Given a char variable, check if it is a digit or a letter and print the result.
+11. Identify and correct the errors in the following variable declarations:
+java
+int 2number = 5;
+double my double = 10.5;
+String class = "Java";
+float _pi = 3.14f;
+
+12. According to Java naming conventions, which of the following variable names are valid? If invalid, explain why:
+java
+String $name;
+int _age;
+boolean isActive;
+double 3.14value;
+char *char;
+
+13. Declare two string variables, String fruit = "Apple"; and String Fruit = "Orange";. Print both variables and explain the output.
+14. Write a program that declares two variables, String country = "India"; and String Country = "USA";. Print both variables to show that they are treated as different variables in Java.
+15. What is the difference between declaring a variable and initializing a variable?
+Can you declare a variable without initializing it? Provide an example.
+16. Can you assign an int value to a double variable directly? Why or why not?
+What is type casting? Provide an example of casting a double to an int.
+17. What is a final variable in Java? How do you declare one?
+Can you change the value of a final variable once it has been initialized? Why or why not?
+18. What is the scope of a variable in Java?
+Where can you access a variable that is declared inside a method?
+19. What are the default values of the following data types in Java if they are declared but not initialized?
+int
+double
+boolean
+String
+20. What are the rules for naming variables in Java?
+Why is it important to follow naming conventions when declaring variables?
+21. How do you declare multiple variables of the same type in a single line? Provide an example.
+Can you declare and initialize multiple variables of different types in a single line? Why or why not?
+22. What will be the output of the following code snippet?
+int a = 5;
+System.out.println(++a);
+System.out.println(a++);
+System.out.println(a);
+23. What will be the output of the following code snippet? 
+int b = 10;
+System.out.println(-b);
+System.out.println(~b);
+24. 
+boolean flag = true;
+System.out.println(!flag);
+25. 
+int e = 7;
+int f = -e++;
+System.out.println(f);
+System.out.println(e);
+26. 
+int x = 5;
+double y = 4.5;
+System.out.println(x + y);
+27. 
+String str = "Number: ";
+int num = 10;
+System.out.println(str + num);
+28.
+int a = 5;
+int b = 10;
+int result = a++ + ++b;
+System.out.println(result);
+
+29. What will be the output of the following code snippet?
+int g = 8;
+g += 2;
+System.out.println(g);
+
+30. What will be the output of the following code snippet?
+int m = 5;
+int n = 4;
+System.out.println(m * n);
+
+31.What will be the output of the following code snippet?
+int p = 6;
+double q = 3.5;
+System.out.println(p * q);
+
+32.What will be the output of the following code snippet?
+int x = 5;
+int y = 3;
+int result = x * y + x - y;
+System.out.println(result);
+
+33.What will be the output of the following code snippet?
+int h = 7;
+h *= 3;
+System.out.println(h);
+
+34.What will be the output of the following code snippet?
+int h = 7;
+h *= 3;
+System.out.println(h);
+
+35.What will be the output of the following code snippet?
+int i = 2;
+int j = 3;
+int k = 4;
+int result = i * j * k;
+System.out.println(result);
+
+36.
+
