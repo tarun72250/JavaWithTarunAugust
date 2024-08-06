@@ -1,0 +1,13 @@
+Basic Usage
+Find the maximum of two numbers using the ternary operator.
+Determine if a number is even or odd using the ternary operator.
+Assign a grade based on a student's score using the ternary operator.
+Calculate the absolute value of a number using the ternary operator.
+Determine if a year is a leap year using the ternary operator.
+Nested Ternary Operators
+Find the largest of three numbers using nested ternary operators.
+Calculate the discount based on purchase amount using multiple ternary operators.
+Determine the day of the week based on a numerical day value (1-7) using ternary operators.
+Ternary Operator with Logical Operators
+Check if a number is positive, negative, or zero using the ternary operator and logical operators.
+Determine if a person is eligible for a discount based on age and membership status using ternary operators and logical operators.

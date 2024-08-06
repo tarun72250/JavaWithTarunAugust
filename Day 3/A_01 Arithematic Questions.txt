@@ -1,0 +1,24 @@
+Simple Arithmetic Operations
+Write a Java program to add two numbers.
+Calculate the difference between two numbers.
+Find the product of three numbers.
+Divide two numbers and print the quotient.
+Calculate the remainder of a division operation.
+Incorporating Data Types
+Write a program to add two integer numbers and print the result.
+Subtract a double value from a float value and print the result.
+Multiply a byte value with a short value and print the result.
+Divide two long values and print the quotient as a double.
+Find the remainder when a long value is divided by an int value.
+Arithmetic Expressions and Operator Precedence
+Evaluate the expression: 5 + 3 * 2 and explain the order of operations.
+Calculate the area of a circle using the formula πr².
+Find the average of five numbers.
+Convert temperature from Celsius to Fahrenheit using the formula F = (C * 9/5) + 32.
+Calculate the simple interest on a given principal, rate, and time.
+Problem-Solving with Arithmetic Operators
+Write a program to check if a number is even or odd.
+Find the largest of three numbers.
+Calculate the factorial of a number using a loop.
+Implement a program to swap two numbers without using a temporary variable.
+Find the square root of a number using the Math.sqrt() method.

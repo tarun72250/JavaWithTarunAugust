@@ -1,0 +1,27 @@
+Arithmetic Operators
+Calculate the area of a triangle given its base and height.
+Find the hypotenuse of a right-angled triangle given its base and perpendicular sides.
+Implement a simple calculator with basic arithmetic operations.
+Calculate the average of an array of numbers.
+Convert temperature from Celsius to Fahrenheit and vice versa.
+
+Comparison Operators
+Determine if a given year is a leap year.
+Check if a number is prime.
+Find the largest and smallest number among three given numbers.
+Implement a program to sort three numbers in ascending order.
+Check if a triangle is equilateral, isosceles, or scalene based on side lengths.
+
+Logical Operators
+Write a program to check if a number is within a given range (inclusive).
+Implement a simple login system with username and password validation.
+Determine if a given character is an alphabet, digit, or special character.
+Check if a triangle is possible with given side lengths.
+Implement a program to check if a number is perfect (sum of its proper divisors equals the number itself).
+
+Assignment Operators and Increment/Decrement
+Swap two numbers without using a temporary variable.
+Calculate the factorial of a number using a loop and assignment operators.
+Implement a program to find the sum of digits of a number.
+Demonstrate the difference between pre-increment and post-increment operators.
+Explain the order of evaluation in expressions involving arithmetic and assignment operators.

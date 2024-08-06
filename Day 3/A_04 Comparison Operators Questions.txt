@@ -1,0 +1,24 @@
+Basic Comparisons
+Write a Java program to check if two given numbers are equal.
+Determine if a number is greater than another number.
+Check if a number is less than another number.
+Verify if a number is greater than or equal to a specified value.
+Determine if a number is less than or equal to a certain value.
+Combining Comparison Operators
+Check if a number is within a given range (inclusive).
+Determine if a character is a vowel (a, e, i, o, u).
+Check if a year is a leap year.
+Verify if a triangle is valid based on its side lengths.
+Determine if a number is prime or composite.
+Logical Operators with Comparison
+Check if both of two given numbers are positive.
+Determine if at least one of two numbers is even.
+Verify if a number is outside a given range.
+Check if a character is a consonant.
+Determine if a triangle is equilateral, isosceles, or scalene.
+Real-world Applications
+Write a program to check if a person is eligible to vote based on their age.
+Determine if a student has passed or failed based on their marks.
+Calculate the discount based on the purchase amount using comparison operators.
+Implement a simple calculator with basic arithmetic and comparison operations.
+Create a program to check if a given year is a century year.

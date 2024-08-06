@@ -1,0 +1,24 @@
+Basic Logical Operations
+Check if a number is positive and even.
+Determine if a person is eligible to vote based on age and citizenship.
+Check if a character is a vowel or consonant.
+Determine if a year is a leap year.
+Verify if a number is within a given range (inclusive).
+Complex Logical Expressions
+Check if a triangle is valid based on its side lengths.
+Determine if a number is prime.
+Verify if a string is a palindrome.
+Check if a given year is a century year.
+Determine if a number is perfect (sum of its proper divisors equals the number itself).
+Logical Operators with Arithmetic and Comparison
+Find the largest of three numbers using logical operators and conditional statements.
+Check if a number is divisible by both 3 and 5.
+Determine if a triangle is equilateral, isosceles, or scalene based on side lengths.
+Calculate the grade of a student based on their marks using logical operators and conditional statements.
+Implement a simple calculator using logical operators for basic arithmetic operations.
+Real-World Scenarios
+Check if a user is eligible for a discount based on age and purchase amount.
+Determine if a product is in stock and available for purchase.
+Verify login credentials using logical operators.
+Implement a simple game with winning conditions using logical expressions.
+Create a program to check if a given date is valid.
