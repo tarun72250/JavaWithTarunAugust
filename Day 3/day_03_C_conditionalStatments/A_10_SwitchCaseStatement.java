@@ -2,7 +2,7 @@ package day_03_C_conditionalStatments;
 
 import java.util.Scanner;
 
-public class A_08_SwitchCaseStatement {
+public class A_10_SwitchCaseStatement {
 
 	public static void main(String[] args)
 	{

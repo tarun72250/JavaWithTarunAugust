@@ -2,7 +2,7 @@ package day_03_C_conditionalStatments;
 import java.util.ArrayList;
 import java.util.List;
 
-public class A_06_AdvancedForLoop 
+public class A_09_AdvancedForLoop 
 {
     public static void main(String[] args) 
     {

@@ -2,7 +2,7 @@ package day_03_C_conditionalStatments;
 
 import java.util.Scanner;
 
-public class A_07_AcceptInputFromUser {
+public class A_08_AcceptInputFromUser {
 
 	public static void main(String[] args) {
 		

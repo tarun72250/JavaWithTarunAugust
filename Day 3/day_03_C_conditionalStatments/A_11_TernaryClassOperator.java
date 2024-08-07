@@ -1,6 +1,6 @@
 package day_03_C_conditionalStatments;
 
-public class TernaryClassOperator {
+public class A_11_TernaryClassOperator {
 
 	public static void main(String[] args) {
 

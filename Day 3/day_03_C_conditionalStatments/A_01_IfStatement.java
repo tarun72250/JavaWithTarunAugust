@@ -31,6 +31,7 @@ public class A_01_IfStatement {
 			System.out.println("Same");
 		}
 
+		//---------------------------------------------------------------------------------------------------
 //Write a program that checks if a person is old enough to drive. If the person's age is 18 or older, print "You are old enough to drive." If the person is under 18, print how many years are left until they can drive.
 
 		int age = 30;  // Replace with any age value
@@ -42,6 +43,8 @@ public class A_01_IfStatement {
 		{
             System.out.println("You are left with " + (18 - age) + " years to drive.");
         }
+
+      //---------------------------------------------------------------------------------------------------
 //Write a program that compares your age with another person's age and prints who is older.
 
         int myAge = 25;  // Replace with your age
@@ -54,23 +57,26 @@ public class A_01_IfStatement {
         } else {
             System.out.println("We are the same age.");
         }
+
+      //---------------------------------------------------------------------------------------------------
 //Write a program that compares two integer values using if-else and ternary operator.
 
-        int a = 4;
-        int b = 3;
+        int a1 = 4;
+        int b1 = 3;
         
         // Using if-else
-        if (a > b) 
+        if (a1 > b1) 
 		{
-            System.out.println(a + " is greater than " + b);
+            System.out.println(a1 + " is greater than " + b1);
         } 
 		else
 		{
-            System.out.println(a + " is less than " + b);
+            System.out.println(a1 + " is less than " + b1);
         }
-        
+
+      //---------------------------------------------------------------------------------------------------
         // Using ternary operator
-        String result = (a > b) ? (a + " is greater than " + b) : (a + " is less than " + b);
+        String result = (a1 > b1) ? (a1 + " is greater than " + b1) : (a1 + " is less than " + b1);
         System.out.println(result);
 // Write a program that checks if a given number is even or odd.
       int number = 9;  // Replace with any number
@@ -81,6 +87,7 @@ public class A_01_IfStatement {
             System.out.println(number + " is an odd number.");
         }
 
+      //---------------------------------------------------------------------------------------------------
 //Write a program that assigns a grade based on the given score using both if-else-if ladder and switch case.
  int score = 85;  // Replace with any score
         
@@ -97,6 +104,8 @@ public class A_01_IfStatement {
             System.out.println("F");
         }
 
+
+      //---------------------------------------------------------------------------------------------------
 		 // Using switch case
         switch (score / 10) {
             case 10:
@@ -116,6 +125,8 @@ public class A_01_IfStatement {
             default:
                 System.out.println("F");
         }
+
+      //---------------------------------------------------------------------------------------------------
 //Write a program that checks the season based on the given month.
  String month = "October";  // Replace with any month
         
@@ -144,6 +155,8 @@ public class A_01_IfStatement {
             default:
                 System.out.println("Invalid month.");
         }
+
+      //---------------------------------------------------------------------------------------------------
 //Write a program that checks if a given day is a weekend or a working day using both if-else-if ladder and switch case.
  // Using if-else-if ladder
  String day = "SaturDay";  // Replace with any day
@@ -163,10 +176,12 @@ public class A_01_IfStatement {
                 System.out.println(day + " is a working day.");
         }
 
+      //---------------------------------------------------------------------------------------------------
+
 //Write a program that prints the number of days in a given month.
-String month = "February";  // Replace with any month
+String month1 = "February";  // Replace with any month
         
-        switch (month.toLowerCase()) {
+        switch (month1.toLowerCase()) {
             case "january":
             case "march":
             case "may":
@@ -174,27 +189,29 @@ String month = "February";  // Replace with any month
             case "august":
             case "october":
             case "december":
-                System.out.println(month + " has 31 days.");
+                System.out.println(month1 + " has 31 days.");
                 break;
             case "april":
             case "june":
             case "september":
             case "november":
-                System.out.println(month + " has 30 days.");
+                System.out.println(month1 + " has 30 days.");
                 break;
             case "february":
-                System.out.println(month + " has 28 days.");
+                System.out.println(month1 + " has 28 days.");
                 break;
             default:
                 System.out.println("Invalid month.");
         }
+
+      //---------------------------------------------------------------------------------------------------
 // /Days in a Month (Leap Year)
 
 //Write a program that prints the number of days in a given month, considering leap years.
-String month = "February";  // Replace with any month
+String month2 = "February";  // Replace with any month
         boolean isLeapYear = true;  // Replace with leap year check
         
-        switch (month.toLowerCase()) {
+        switch (month2.toLowerCase()) {
             case "january":
             case "march":
             case "may":
@@ -202,24 +219,26 @@ String month = "February";  // Replace with any month
             case "august":
             case "october":
             case "december":
-                System.out.println(month + " has 31 days.");
+                System.out.println(month2 + " has 31 days.");
                 break;
             case "april":
             case "june":
             case "september":
             case "november":
-                System.out.println(month + " has 30 days.");
+                System.out.println(month2 + " has 30 days.");
                 break;
             case "february":
                 if (isLeapYear) {
-                    System.out.println(month + " has 29 days.");
+                    System.out.println(month2 + " has 29 days.");
                 } else {
-                    System.out.println(month + " has 28 days.");
+                    System.out.println(month2 + " has 28 days.");
                 }
                 break;
             default:
                 System.out.println("Invalid month.");
         }
+
+      //---------------------------------------------------------------------------------------------------
 //Write a program that calculates the area of a rectangle given its length and breadth.
   double length = 5.0;  // Replace with any length
         double breadth = 3.0;  // Replace with any breadth
@@ -227,6 +246,8 @@ String month = "February";  // Replace with any month
         double area = length * breadth;
         System.out.println("The area of the rectangle is: " + area);
 
+
+      //---------------------------------------------------------------------------------------------------
 //Write a program that finds the largest integer among two given integers.
  int num1 = 10;  // Replace with first number
         int num2 = 15;  // Replace with second number
@@ -237,6 +258,8 @@ String month = "February";  // Replace with any month
             System.out.println(num2 + " is the largest integer.");
         }
 
+
+      //---------------------------------------------------------------------------------------------------
 //Write a program that assigns a grade based on given marks.
  int marks = 75;  // Replace with marks
         
@@ -251,23 +274,27 @@ String month = "February";  // Replace with any month
         } else if (marks < 100) {
             System.out.println("A");
         }
+
+      //---------------------------------------------------------------------------------------------------
 //Write a program that assigns a branch based on given marks.
-int marks = 85;  // Replace with marks
+int marks2 = 85;  // Replace with marks
         
         String branch;
-        if (marks > 90) {
+        if (marks2 > 90) {
             branch = "CS Branch";
-        } else if (marks > 80) {
+        } else if (marks2 > 80) {
             branch = "Mechanical Branch";
-        } else if (marks > 70) {
+        } else if (marks2 > 70) {
             branch = "Chemical Engineering";
-        } else if (marks > 50) {
+        } else if (marks2 > 50) {
             branch = "Civil Engineering";
         } else {
             branch = "Bio Technology";
         }
         System.out.println("The student's branch is: " + branch);
 
+        
+//---------------------------------------------------------------------------------------------------
 //Write a program that prints a message based on the weather condition and temperature.
 String weather = "sunny";  // Replace with weather condition
         int temperature = 30;  // Replace with temperature
@@ -288,6 +315,9 @@ String weather = "sunny";  // Replace with weather condition
 		else 
 		{
             System.out.println("The weather is not sunny.");
+		}
+        
+        
+        
   	}
-
 }

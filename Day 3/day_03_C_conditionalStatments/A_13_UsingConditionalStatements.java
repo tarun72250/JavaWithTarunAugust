@@ -1,6 +1,6 @@
 package day_03_C_conditionalStatments;
 
-public class UsingConditionalStatements {
+public class A_13_UsingConditionalStatements {
 							//Command line arguement
 	public static void main(String [] args)
 	{

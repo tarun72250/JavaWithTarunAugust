@@ -1,6 +1,6 @@
 package day_03_C_conditionalStatments;
 
-public class UsingBooleanVariable {
+public class A_12_UsingBooleanVariable {
 
 	public static void main(String[] args) {
 		

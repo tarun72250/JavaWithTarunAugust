@@ -1,6 +1,6 @@
 package day_03_C_conditionalStatments;
 
-public class A_05_Whileloop {
+public class A_06_Whileloop {
  
 	public static void main(String[] args) {
 		

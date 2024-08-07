@@ -1,6 +1,6 @@
 package day_03_C_conditionalStatments;
 
-public class A_05_DoWhileLoop {
+public class A_07_DoWhileLoop {
 	
 	
 	public static void main(String[] args) {
