@@ -3,7 +3,7 @@ package day_03_C_conditionalStatments;
 public class A_01_IfStatement {
 
 	public static void main(String[] args) {
-		
+
 		//1.
 		int a = 20;
 		int b = 40;
@@ -209,9 +209,10 @@ String month1 = "February";  // Replace with any month
 
 //Write a program that prints the number of days in a given month, considering leap years.
 String month2 = "February";  // Replace with any month
-        boolean isLeapYear = true;  // Replace with leap year check
+boolean isLeapYear = false;  // Replace with leap year check
         
-        switch (month2.toLowerCase()) {
+        switch (month2.toLowerCase()) 
+        {
             case "january":
             case "march":
             case "may":
@@ -221,16 +222,21 @@ String month2 = "February";  // Replace with any month
             case "december":
                 System.out.println(month2 + " has 31 days.");
                 break;
+                
             case "april":
             case "june":
             case "september":
             case "november":
                 System.out.println(month2 + " has 30 days.");
                 break;
+                
             case "february":
-                if (isLeapYear) {
+                if (isLeapYear) 
+                {
                     System.out.println(month2 + " has 29 days.");
-                } else {
+                } 
+                else 
+                {
                     System.out.println(month2 + " has 28 days.");
                 }
                 break;
@@ -280,13 +286,17 @@ String month2 = "February";  // Replace with any month
 int marks2 = 85;  // Replace with marks
         
         String branch;
-        if (marks2 > 90) {
+        if (marks2 > 90) 
+        {
             branch = "CS Branch";
-        } else if (marks2 > 80) {
+        } else if (marks2 > 80) 
+        {
             branch = "Mechanical Branch";
-        } else if (marks2 > 70) {
+        } else if (marks2 > 70) 
+        {
             branch = "Chemical Engineering";
-        } else if (marks2 > 50) {
+        } else if (marks2 > 50)
+        {
             branch = "Civil Engineering";
         } else {
             branch = "Bio Technology";
@@ -299,7 +309,8 @@ int marks2 = 85;  // Replace with marks
 String weather = "sunny";  // Replace with weather condition
         int temperature = 30;  // Replace with temperature
         
-        if ("sunny".equalsIgnoreCase(weather)) {
+        if ("sunny".equalsIgnoreCase(weather)) 
+        {
             if (temperature > 30) {
                 System.out.println("It's a hot sunny day.");
             } 
@@ -316,7 +327,7 @@ String weather = "sunny";  // Replace with weather condition
 		{
             System.out.println("The weather is not sunny.");
 		}
-        
+      
         
         
   	}

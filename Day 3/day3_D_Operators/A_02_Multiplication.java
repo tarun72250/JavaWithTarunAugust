@@ -1,4 +1,4 @@
-package day3_Operators;
+package day3_D_Operators;
 
 public class A_02_Multiplication {
 

@@ -1,0 +1,44 @@
+1. Right-Angle Triangle Pattern
+*
+**
+***
+****
+*****
+
+2. Inverted Right-Angle Triangle Pattern
+*****
+****
+***
+**
+*
+
+3. Increasing number Pattern
+1
+12
+123
+1234
+12345
+
+4. Diamond Pyramid Triangle Pattern
+    *    
+   ***   
+  *****  
+ ******* 
+*********
+
+5.   1 , 0 Pattern
+1
+10
+101
+1010
+10101
+
+for more practise refer this website :- 
+URL :- https://www.javatpoint.com/how-to-print-pattern-in-java
+
+Patterns By Shraddha khapra :-
+URL :- https://www.youtube.com/watch?v=GjHNGM7KN3w&t=361s
+
+Patterns By Deepak Sir Simple Learn Programming :- 
+URL :- https://www.youtube.com/watch?v=stFbAQUSEnQ&list=PLlhM4lkb2sEiScGRZEHkHsI1ncXKLq5Zp
+

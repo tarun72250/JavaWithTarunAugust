@@ -1,0 +1,16 @@
+1. Print Fibonacci Series: Write a for loop to print the first 10 numbers of the Fibonacci series.
+2. Check if a Number is Prime: Write a while loop to check if a given number is prime.
+3. Find the Greatest Common Divisor (GCD) of Two Numbers:Write a while loop to find the greatest common divisor (GCD) of two numbers.
+4. Calculate Sum of First N Natural Numbers:Write a while loop to calculate the sum of the first N natural numbers, where N is a user input.
+5. Print all odd numbers between 1 and n using a for loop, where n is provided by the user.
+6. Check if a number is prime using a for loop, where the number is provided by the user.
+7. Calculate the sum of the squares of the first n natural numbers using a while loop, where n is provided by the user.
+8. Check if a number is a palindrome using a do...while loop, where the number is provided by the user.
+9. A perfect number is a positive integer that is equal to the sum of its proper divisors. 
+10. Write a do...while loop to implement a simple menu-driven program.
+
+
+Logical Coding Ques refer these 
+
+The Best Venkat Marisetty :- 
+URL :- https://www.youtube.com/watch?v=5B9jPPRdHHM&list=PLPTEH6qQi0o9J8AumkMl2aCb5pggfcBkJ

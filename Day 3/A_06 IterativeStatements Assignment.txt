@@ -1,0 +1,10 @@
+1. Print Numbers from 1 to 10: using for loop
+2. Accept input from User and Print Even Numbers between 1 to till range which is entered by user: using while loop
+3. Print Numbers from 10 to 1: using do while loop
+4. Sum of Numbers from 1 to 100: using do while loop
+5. Print "Hello World" 5 Times: using while loop
+6. Accept input from user and print range of Multiplication Table of till user enters.
+7. Accept input from User Entered Numbers Until Zero is typed by user:
+8. Count Digits of a Number: Write a while loop to count the number of digits in a given number.
+9. Reverse a Number: Write a while loop to reverse a given number.
+10. Calculate the Power of a Number:Write a for loop to calculate the power of a number (base^exponent)
