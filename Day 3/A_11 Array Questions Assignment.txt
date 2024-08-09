@@ -1,0 +1,28 @@
+In these all program generate input from user and pass it to your function.
+
+
+Write a Java program to find the sum of all elements in an array.
+Create a program that calculates the average of the elements in an array.
+Write a program to find the maximum element in an array.
+Develop a program to find the minimum element in an array.
+Create a Java program that reverses the elements in an array.
+Write a program to count the number of even and odd elements in an array.
+Develop a program to find the second largest element in an array.
+Write a program to remove duplicate elements from an array.
+Create a program that sorts an array in ascending order without using built-in functions.
+Write a program to merge two sorted arrays into a single sorted array.
+Develop a program to find the sum of all positive numbers in an array.
+Write a program that checks if a given array is sorted in ascending order.
+Create a program to shift all zeroes in an array to the end while maintaining the order of other elements.
+Write a program to find the frequency of each element in an array.
+Develop a program that finds the most frequent element in an array.
+Write a program to find the smallest missing positive integer in an array.
+Create a program that rotates an array to the left by a given number of positions.
+Write a program to check if two arrays are equal.
+Develop a program to find the longest increasing subsequence in an array.
+Write a program to find the sum of the largest contiguous subarray (Kadane's Algorithm).
+Create a program that finds the pair of elements with the smallest difference in an array.
+Write a program to move all negative numbers to the beginning and all positive numbers to the end of the array.
+Develop a program to find the intersection of two arrays.
+Write a program to calculate the product of all elements in an array except the current element for each index.
+Create a program to find the maximum product of two adjacent elements in an array.

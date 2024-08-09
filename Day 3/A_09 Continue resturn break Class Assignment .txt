@@ -1,0 +1,28 @@
+Java Loops Assignment :- with return , break , and continue statements 
+
+  		//1.Write a code to print 1 to 15 using for loop and while loop and do continue keyword use for no which is even.
+		//2.Write a code to print 20 to 2 using for loop and while loop as well
+		//3.Write a program to print tables
+		//4.write a program to print reverse tables
+		//5.Write a program to print all alphabets from a to z and use break statement after p 
+		//6.Write a program to print reverse alphabets from Z to A 
+		//7.Write a program to print all even numbers between 1 to 100 using continue statement
+		//8.Write a program to print all odd number between 1 to 100
+		//9.Write a program to find sum of all natural numbers between 1 to n
+		//10.Write a program to find sum of all even numbers between 1 to n
+		//11.Write a program to find sum of all odd numbers between 1 to n
+		//12.Write a program to print the ASCII values
+		/*
+		 for(int s=1;s<=255;s++)
+		{
+			System.out.println((char)s);	
+		} 
+		 */
+		//13.Write a program to find the factorial value of any number
+		//14.Write a program to find the value of one number raised to the power of another
+		//15.write a program to reverse the given Digits
+		//16.write a program to sum of its Digits
+		//17.write a program to Check Whether a Given Number is Prime or Not
+		
+
+

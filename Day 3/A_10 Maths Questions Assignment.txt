@@ -1,0 +1,27 @@
+In all these program get input from user and make sure to provide function creation program this will build your mostly logics like call non-static method and creation of static method in class.
+
+Write a Java program to check whether a given number is a prime number.
+Create a program that calculates the factorial of a given number using a loop.
+Write a program to find the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
+Develop a program to check if a number is an Armstrong number.
+Create a Java program that finds the sum of digits of a number until the result is a single digit.
+Write a program to calculate the nth Fibonacci number using iteration.
+Create a program to reverse the digits of an integer.
+Write a program to check whether a number is a palindrome.
+Develop a program to calculate the power of a number without using the Math.pow() function.
+Write a program to find the least common multiple (LCM) of two numbers.
+Create a program that converts a binary number to a decimal number.
+Write a Java program to find the sum of all even numbers and the product of all odd numbers from 1 to n.
+Develop a program to check if a number is a perfect number.
+Write a program that calculates the sum of the series 1 - 2 + 3 - 4 + ... ± n.
+Create a program that finds the sum of the first n prime numbers.
+Write a program to check if a number is a strong number (sum of the factorial of digits equals the number).
+Develop a Java program to check if a number is a Harshad number (divisible by the sum of its digits).
+Write a program that finds the digital root of a number.
+Create a program to calculate the sum of squares of the first n natural numbers.
+Write a program to count the number of set bits (1s) in the binary representation of a number.
+Develop a program to find the sum of prime factors of a number.
+Write a program to find the largest prime factor of a given number.
+Create a program to check if a number can be expressed as a sum of two prime numbers.
+Write a Java program that calculates the nth triangular number.
+Develop a program to find the smallest positive integer that is evenly divisible by all numbers from 1 to n.
