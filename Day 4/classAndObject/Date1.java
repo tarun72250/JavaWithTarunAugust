@@ -1,4 +1,4 @@
-package A_01_ClassAndObject;
+package classAndObject;
 
 public class Date1 {
 
@@ -40,9 +40,15 @@ public class Date1 {
 		}
 		
 		
+		//Method Overloading :-
 		//instance member method , behaviour , function 
 		public void showDate()
 		{
 			System.out.println(dd+" "+mm+" "+yy);
+		}
+		
+		public void showDate(char ch)
+		{
+			System.out.println(dd+" "+ch+mm+ch+" "+yy);
 		}
 }

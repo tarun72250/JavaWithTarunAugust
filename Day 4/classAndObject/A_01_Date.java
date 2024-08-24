@@ -1,6 +1,6 @@
-package A_01_ClassAndObject;
+package classAndObject;
 
-public class Date {
+public class A_01_Date {
 
 	// instance data meber , state , property , dm , attribute
 	private int dd;

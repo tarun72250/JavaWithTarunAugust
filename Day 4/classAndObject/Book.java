@@ -1,4 +1,4 @@
-package A_01_ClassAndObject;
+package classAndObject;
 
 public class Book {
 
