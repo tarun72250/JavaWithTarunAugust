@@ -39,8 +39,10 @@ public class A_02_Box {
 	
 	//---------------------------------------------
 	
+	//We are creating methods using two ways
+	
 	//instance member method 
-	//does not return anything
+	//if method does not return anything so we use void
 	public void calVolume()
 	{
 		int result = height*this.width*this.depth;
@@ -48,7 +50,7 @@ public class A_02_Box {
 	}
 	
 	//instance member method 
-	//int value return 
+	//if my method does return some type of value so we return that type 
 	public int calVolumePara(int h , int w , int d)
 	{
 		int res = h*w*d;

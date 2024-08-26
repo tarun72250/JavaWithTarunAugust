@@ -2,8 +2,8 @@ package classAndObject;
 
 public class Calculater {
 
-	//instance data member
-		int a,b;
+		//instance data member
+		private int a,b;
 		
 		//Default cons
 		public Calculater()
