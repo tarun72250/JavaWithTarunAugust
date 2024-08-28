@@ -12,12 +12,15 @@ public class Account {
 	
 	
 	//static block
+	//need :- to initialized static dm
 	static {
 		int_rate=4.5f;
 		//this.accno=1;// cannot make a static refrence to the non-static feild accno.
 	}
 	
+	
 	//non-static dm are always initialized in constructor
+	//need :- to initialized instance dm 
 	public Account()
 	{
 		
