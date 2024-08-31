@@ -2,7 +2,7 @@ package day6Demo;
 
 public class AccountUpdate {
 
-	//instance dm - non-static dm - instance level information
+			//instance dm - non-static dm - instance level information
 			private int accno;
 			private float balance;
 			

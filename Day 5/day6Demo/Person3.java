@@ -4,7 +4,7 @@ public class Person3 {
 
 	//instance refrence variable
 			String name ;
-			Date bdate;
+			Date bdate;//refrence instance variabel
 			
 			//default cons
 			public Person3()
