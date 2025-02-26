@@ -1,2 +1,3 @@
-# JavaWithTarunAugust
-The Whole Java Series By Tarun From DebugShala.
+# JavaWithTarunFeb2025
+
+The Whole Java Series By Tarun for Rishabh.
